@@ -16,3 +16,4 @@ if [[ $exit_code == 1 ]]; then
 	svn export "$svn_url"
 	exit_code=$?
 fi
+exit $exit_code
