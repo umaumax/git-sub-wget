@@ -8,3 +8,6 @@
 ```
 ./git-sub-wget.sh <git repo url>
 ```
+
+## Issue
+* files permission are ignored
